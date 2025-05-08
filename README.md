@@ -1,7 +1,7 @@
-# APLN552: Special Topics in Natural Language Processing Final Project Submission
+# APLN552: Special Topics in Natural Language Processing
 ## How Code-Switching and Cognates Affect Surprisal In Language Models 
 
-## Project Overview
+# Project Overview
 
 This project explores how a language model trained only on English handles bilingual input, particularly code-switching and cognates between English and Spanish. Inspired by Degani et al. (2018), who found that bilinguals activate both languages during reading, this project investigates whether a statistical bigram model shows similar difficulty when encountering unexpected language switches.
 
