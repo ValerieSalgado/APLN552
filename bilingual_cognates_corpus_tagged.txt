@@ -1,0 +1,342 @@
+[EN] The accident happened near the school.
+[ES] El accidente ocurrió cerca de la escuela.
+[EN] It was an accidental discovery.
+[ES] Fue un descubrimiento accidental.
+[EN] They will accompany us to the museum.
+[ES] Ellos nos acompañarán al museo.
+[EN] The acrobatic show was amazing.
+[ES] El espectáculo acrobático fue increíble.
+[EN] She is very active in sports.
+[ES] Ella es muy activa en los deportes.
+[EN] The activities were fun for everyone.
+[ES] Las actividades fueron divertidas para todos.
+[EN] I admire her strength and kindness.
+[ES] Admiro su fuerza y amabilidad.
+[EN] He admitted his mistake.
+[ES] Él admitió su error.
+[EN] Only adults are allowed in this area.
+[ES] Sólo los adultos están permitidos en esta área.
+[EN] Their adventure took them across the desert.
+[ES] Su aventura los llevó a través del desierto.
+[EN] They decided to adopt a puppy.
+[ES] Decidieron adoptar un cachorro.
+[EN] The adoption process was quick.
+[ES] El proceso de adopción fue rápido.
+[EN] The African elephant is very large.
+[ES] El elefante africano es muy grande.
+[EN] The agent helped us find a house.
+[ES] El agente nos ayudó a encontrar una casa.
+[EN] The air felt fresh after the rain.
+[ES] El aire se sentía fresco después de la lluvia.
+[EN] The alarm woke me up early.
+[ES] La alarma me despertó temprano.
+[EN] She is allergic to peanuts.
+[ES] Ella es alérgica a los cacahuates.
+[EN] We saw an anaconda at the zoo.
+[ES] Vimos una anaconda en el zoológico.
+[EN] The animal ran across the road.
+[ES] El animal corrió por la carretera.
+[EN] They announced the winner yesterday.
+[ES] Anunciaron al ganador ayer.
+[EN] The magician will appear on stage soon.
+[ES] El mago aparecerá en el escenario pronto.
+[EN] My appetite increased after exercising.
+[ES] Mi apetito aumentó después de hacer ejercicio.
+[EN] This area is protected by law.
+[ES] Esta área está protegida por la ley.
+[EN] He is good at arithmetic.
+[ES] Él es bueno en aritmética.
+[EN] The artist painted a beautiful portrait.
+[ES] El artista pintó un hermoso retrato.
+[EN] The association promotes animal welfare.
+[ES] La asociación promueve el bienestar animal.
+[EN] The astronomer discovered a new star.
+[ES] El astrónomo descubrió una nueva estrella.
+[EN] The atmosphere was festive and lively.
+[ES] La atmósfera era festiva y animada.
+[EN] Pay attention during the instructions.
+[ES] Presta atención durante las instrucciones.
+[EN] August is one of the hottest months.
+[ES] Agosto es uno de los meses más calurosos.
+[EN] She asked for his autograph.
+[ES] Ella pidió su autógrafo.
+[EN] The automobile was very expensive.
+[ES] El automóvil era muy caro.
+[EN] He ate a ripe banana for breakfast.
+[ES] Él comió una banana madura en el desayuno.
+[EN] She played the banjo beautifully.
+[ES] Ella tocó el banjo hermosamente.
+[EN] He rides his bicycle every morning.
+[ES] Él monta su bicicleta todas las mañanas.
+[EN] I read an interesting biography.
+[ES] Leí una biografía interesante.
+[EN] The blouse was made of silk.
+[ES] La blusa estaba hecha de seda.
+[EN] She had a brilliant idea.
+[ES] Ella tuvo una idea brillante.
+[EN] The cabin was cozy and warm.
+[ES] La cabina era acogedora y cálida.
+[EN] We need to replace the cable.
+[ES] Necesitamos reemplazar el cable.
+[EN] Let's meet at the cafeteria.
+[ES] Vamos a reunirnos en la cafetería.
+[EN] She bought a new camera.
+[ES] Ella compró una nueva cámara.
+[EN] The camouflage helped the soldiers.
+[ES] El camuflaje ayudó a los soldados.
+[EN] The canyon was breathtaking.
+[ES] El cañón era impresionante.
+[EN] The captain gave clear instructions.
+[ES] El capitán dio instrucciones claras.
+[EN] They tried to capture the moment.
+[ES] Intentaron capturar el momento.
+[EN] The catastrophe caused a lot of damage.
+[ES] La catástrofe causó muchos daños.
+[EN] The cause of the fire was unknown.
+[ES] La causa del incendio era desconocida.
+[EN] They celebrate their anniversary every year.
+[ES] Celebran su aniversario cada año.
+[EN] The accident caused major traffic delays.
+[ES] El accidente causó grandes retrasos de tráfico.
+[EN] He made an accidental discovery during the experiment.
+[ES] Él hizo un descubrimiento accidental durante el experimento.
+[EN] They will accompany us to the event tonight.
+[ES] Ellos nos acompañarán al evento esta noche.
+[EN] The acrobatic performance amazed everyone.
+[ES] La actuación acrobática sorprendió a todos.
+[EN] She remains very active in community projects.
+[ES] Ella sigue muy activa en proyectos comunitarios.
+[EN] The activities at the park are very exciting.
+[ES] Las actividades en el parque son muy emocionantes.
+[EN] I admire her courage and honesty.
+[ES] Admiro su valentía y honestidad.
+[EN] He admitted his mistake during the meeting.
+[ES] Él admitió su error durante la reunión.
+[EN] Adults need to supervise the children.
+[ES] Los adultos deben supervisar a los niños.
+[EN] They went on an unforgettable adventure.
+[ES] Ellos fueron en una aventura inolvidable.
+[EN] They chose to adopt a kitten.
+[ES] Eligieron adoptar un gatito.
+[EN] The adoption took less time than expected.
+[ES] La adopción tomó menos tiempo de lo esperado.
+[EN] The African continent is very diverse.
+[ES] El continente africano es muy diverso.
+[EN] The agent managed the entire project.
+[ES] El agente gestionó todo el proyecto.
+[EN] Fresh air is important for good health.
+[ES] El aire fresco es importante para una buena salud.
+[EN] The alarm rang early this morning.
+[ES] La alarma sonó temprano esta mañana.
+[EN] He is allergic to seafood.
+[ES] Él es alérgico a los mariscos.
+[EN] The anaconda is a very large snake.
+[ES] La anaconda es una serpiente muy grande.
+[EN] The animal escaped from the cage.
+[ES] El animal escapó de la jaula.
+[EN] They announced the new plan yesterday.
+[ES] Anunciaron el nuevo plan ayer.
+[EN] The actor will appear in the next episode.
+[ES] El actor aparecerá en el próximo episodio.
+[EN] My appetite increases after exercise.
+[ES] Mi apetito aumenta después del ejercicio.
+[EN] This area is restricted to staff only.
+[ES] Esta área está restringida sólo al personal.
+[EN] Arithmetic is an important subject in school.
+[ES] La aritmética es una materia importante en la escuela.
+[EN] The artist painted a beautiful mural.
+[ES] El artista pintó un mural hermoso.
+[EN] The association helps people in need.
+[ES] La asociación ayuda a las personas necesitadas.
+[EN] The astronomer observed the stars all night.
+[ES] El astrónomo observó las estrellas toda la noche.
+[EN] The dollar is strong today.
+[ES] El dólar está fuerte hoy.
+[EN] We found a double rainbow after the rain.
+[ES] Encontramos un arco iris doble después de la lluvia.
+[EN] The dragon was fierce and powerful.
+[ES] El dragón era feroz y poderoso.
+[EN] They used dynamite to clear the rocks.
+[ES] Usaron dinamita para limpiar las rocas.
+[EN] December is my favorite month.
+[ES] Diciembre es mi mes favorito.
+[EN] They decided to stay home.
+[ES] Decidieron quedarse en casa.
+[EN] The decoration was beautiful.
+[ES] La decoración era hermosa.
+[EN] The vase is very delicate.
+[ES] El jarrón es muy delicado.
+[EN] You can depend on me.
+[ES] Puedes depender de mí.
+[EN] They tried to deport him unjustly.
+[ES] Intentaron deportarlo injustamente.
+[EN] She will describe the situation later.
+[ES] Ella describirá la situación más tarde.
+[EN] The desert was hot and dry.
+[ES] El desierto era caliente y seco.
+[EN] The storm could destroy the crops.
+[ES] La tormenta podría destruir los cultivos.
+[EN] Police detained the suspect.
+[ES] La policía detuvo al sospechoso
+[EN] We must determine the cause.
+[ES] Debemos determinar la causa.
+[EN] The diamond sparkled brightly.
+[ES] El diamante brillaba intensamente.
+[EN] The dictator ruled with fear.
+[ES] El dictador gobernaba con miedo.
+[EN] They have different opinions.
+[ES] Ellos tienen opiniones diferentes.
+[EN] The electric car is very quiet.
+[ES] El coche eléctrico es muy silencioso.
+[EN] We saw an elephant at the zoo.
+[ES] Vimos un elefante en el zoológico.
+[EN] The explosion shook the buildings.
+[ES] La explosión sacudió los edificios.
+[EN] The exotic fruit tasted sweet.
+[ES] La fruta exótica sabía dulce.
+[EN] He added an extra seat for guests.
+[ES] Agregó un asiento extra para los invitados.
+[EN] The extraordinary performance impressed everyone.
+[ES] La actuación extraordinaria impresionó a todos.
+[EN] The family gathered for dinner.
+[ES] La familia se reunió para cenar.
+[EN] He became a famous actor.
+[ES] Se convirtió en un actor famoso.
+[EN] That movie fascinated me.
+[ES] Esa película me fascinó.
+[EN] My favorite color is blue.
+[ES] Mi color favorito es el azul.
+[EN] The lion was ferocious.
+[ES] El león era feroz.
+[EN] Finally, we finished the project.
+[ES] Finalmente, terminamos el proyecto.
+[EN] She gave a firm handshake.
+[ES] Ella dio un apretón de manos firme.
+[EN] The wire is very flexible.
+[ES] El alambre es muy flexible.
+[EN] The flower bloomed in the spring.
+[ES] La flor floreció en primavera.
+[EN] Fortunately, no one was hurt.
+[ES] Afortunadamente, nadie resultó herido.
+[EN] The fruit was sweet and juicy.
+[ES] La fruta era dulce y jugosa.
+[EN] The funeral was very emotional.
+[ES] El funeral fue muy emotivo
+[EN] He was furious about the news.
+[ES] Él estaba furioso por las noticias.
+[EN] The galaxy contains billions of stars.
+[ES] La galaxia contiene miles de millones de estrellas.
+[EN] The gas leak was fixed immediately.
+[ES] La fuga de gas fue reparada inmediatamente.
+[EN] The giraffe reached the tallest branches.
+[ES] La jirafa alcanzó las ramas más altas.
+[EN] Insects are essential for nature.
+[ES] Los insectos son esenciales para la naturaleza.
+[EN] They are inseparable friends.
+[ES] Son amigos inseparables.
+[EN] I insist on seeing the manager.
+[ES] Insisto en ver al gerente.
+[EN] The inspection took several hours.
+[ES] La inspección tomó varias horas.
+[EN] His intelligence is remarkable.
+[ES] Su inteligencia es notable.
+[EN] The book was very interesting.
+[ES] El libro era muy interesante.
+[EN] Please do not interrupt the speaker.
+[ES] Por favor, no interrumpas al orador.
+[EN] Let me introduce my colleague.
+[ES] Déjame presentarte a mi colega.
+[EN] The introduction was very brief.
+[ES] La introducción fue muy breve.
+[EN] They plan to invent a new device.
+[ES] Planean inventar un nuevo dispositivo.
+[EN] We need to investigate the case.
+[ES] Necesitamos investigar el caso.
+[EN] They sent an invitation to everyone.
+[ES] Enviaron una invitación a todos.
+[EN] We invite you to the party.
+[ES] Te invitamos a la fiesta.
+[EN] The island is very isolated.
+[ES] La isla está muy aislada.
+[EN] Imagine living on another planet.
+[ES] Imagina vivir en otro planeta.
+[EN] He responded immediately to the call.
+[ES] Respondió inmediatamente a la llamada.
+[EN] Immigrants enrich our culture.
+[ES] Los inmigrantes enriquecen nuestra cultura.
+[EN] The importance of education is clear.
+[ES] La importancia de la educación es clara.
+[EN] It is important to listen carefully.
+[ES] Es importante escuchar atentamente.
+[EN] I was very impressed by the speech.
+[ES] Me impresionó mucho el discurso.
+[EN] The first impression was very positive.
+[ES] La primera impresión fue muy positiva.
+[EN] The view from the top is incredible.
+[ES] La vista desde la cima es increíble.
+[EN] This disease is incurable.
+[ES] Esta enfermedad es incurable.
+[EN] They fought for independence.
+[ES] Lucharon por la independencia.
+[EN] The helicopter landed safely.
+[ES] El helicóptero aterrizó de forma segura.
+[EN] The hippopotamus swam in the river.
+[ES] El hipopótamo nadó en el río.
+[EN] History class is very interesting.
+[ES] La clase de historia es muy interesante.
+[EN] He received an honor for his bravery.
+[ES] Recibió un honor por su valentía.
+[EN] The hospital is near the park.
+[ES] El hospital está cerca del parque.
+[EN] We stayed at a comfortable hotel.
+[ES] Nos alojamos en un hotel cómodo.
+[EN] The hour passed very quickly.
+[ES] La hora pasó muy rápido.
+[EN] Human rights are important.
+[ES] Los derechos humanos son importantes.
+[EN] The idea was brilliant.
+[ES] La idea era brillante.
+[EN] Identification is required for entry.
+[ES] Se requiere identificación para la entrada.
+[EN] The meeting will start in a few minutes.
+[ES] La reunión comenzará en unos minutos.
+[EN] The moment was unforgettable.
+[ES] El momento fue inolvidable.
+[EN] The monument was dedicated to heroes.
+[ES] El monumento fue dedicado a los héroes.
+[EN] They had much to discuss.
+[ES] Tenían mucho que discutir.
+[EN] The music played softly in the background.
+[ES] La música sonaba suavemente en el fondo.
+[EN] The garden looked very natural.
+[ES] El jardín parecía muy natural.
+[EN] Water is a basic necessity.
+[ES] El agua es una necesidad básica.
+[EN] Bees collect nectar from flowers.
+[ES] Las abejas recogen néctar de las flores.
+[EN] She felt very nervous before the exam.
+[ES] Ella se sintió muy nerviosa antes del examen.
+[EN] The notice was posted on the board.
+[ES] El aviso fue colocado en el tablero.
+[EN] Obedience is important for a well-trained dog.
+[ES] La obediencia es importante para un perro bien entrenado.
+[EN] The object was shiny and round.
+[ES] El objeto era brillante y redondo.
+[EN] The observatory was located on a hill.
+[ES] El observatorio estaba ubicado en una colina.
+[EN] The occasion was celebrated with joy.
+[ES] La ocasión fue celebrada con alegría.
+[EN] The ocean was calm today.
+[ES] El océano estaba tranquilo hoy.
+[EN] October is my favorite month for hiking.
+[ES] Octubre es mi mes favorito para hacer senderismo.
+[EN] The office is closed on holidays.
+[ES] La oficina está cerrada en días festivos.
+[EN] The operation was a success.
+[ES] La operación fue un éxito.
+[EN] It was just an ordinary day.
+[ES] Fue simplemente un día ordinario.
+[EN] The palace was open for tours.
+[ES] El palacio estaba abierto para visitas.
+[EN] She will present her project tomorrow.
+[ES] Ella presentará su proyecto mañana.
