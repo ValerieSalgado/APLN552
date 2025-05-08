@@ -11,4 +11,5 @@ This project looks at how a simple English-trained language model handles biling
 ## Hypothesis:
 **A model trained only on English will have higher surprisal when reading Spanish sentences, even if the words are cognates. Code-switching will make prediction harder.** 
 
+## Further Information
 The results and data are included in this project. You can find surprisal scores for both English and Spanish sentences, along with the code used to calculate them. All the data files, scripts, and graphs are organized in the folders provided.
